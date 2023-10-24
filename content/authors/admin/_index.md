@@ -1,9 +1,9 @@
 ---
 # Display name
-title: xiao筱的介绍
+title: xiao Xiao
 
 # Name pronunciation (optional)
-name_pronunciation: xiao xiao
+name_pronunciation: 
 # Full name (for SEO)
 first_name: xiao
 last_name: 筱
@@ -20,8 +20,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Harvard University
+    # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -99,6 +99,9 @@ social:
     label: Follow me on Twitter
     display:
       header: true
+  - icon: google # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://google.com
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
