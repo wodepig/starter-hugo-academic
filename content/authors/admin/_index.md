@@ -35,24 +35,24 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: Ph.D. in Clinical Science, expected 2023
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2023
+    - course: A.M. in Clinical Science, 2019
+      institution: Harvard University
+      year: 2019
+    - course: B.A. in Psychology (statistics minor), 2017
+      institution: The College of New Jersey
+      year: 2017
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: 编程
     items:
     - name: Python
-      description: ''
-      percent: 80
+      description: '不会'
+      percent: 10
       icon: python
       icon_pack: fab
     - name: Data Science
