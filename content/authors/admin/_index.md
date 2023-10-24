@@ -28,8 +28,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - * Artificial Intelligence
-  - * Computational Linguistics
+  - Artificial Intelligence
+  - Computational Linguistics
   - 兴趣:爱睡觉 
 
 # Education to show in About widget
@@ -126,5 +126,5 @@ Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab
 **加粗字体**
 [超链接](http://baidu.com)
 
-你好,这是我的简介
+你好,这是我的
 {style="text-align: justify;"}
