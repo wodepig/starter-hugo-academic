@@ -30,7 +30,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Artificial Intelligence兴趣
   - Computational Linguistics兴趣
-  - 爱睡觉
+  - 兴趣:爱睡觉
 
 # Education to show in About widget
 education:
