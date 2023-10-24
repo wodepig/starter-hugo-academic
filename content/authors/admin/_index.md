@@ -1,6 +1,6 @@
 ---
 # Display name
-title: xiao筱的简历
+title: xiao筱的介绍
 
 # Name pronunciation (optional)
 name_pronunciation: xiao xiao
@@ -28,9 +28,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence兴趣
-  - Computational Linguistics兴趣
+  - Artificial Intelligence
+  - Computational Linguistics
   - 兴趣:爱睡觉
+  * hello
 
 # Education to show in About widget
 education:
