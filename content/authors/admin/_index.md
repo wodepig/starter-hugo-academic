@@ -1,17 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: xiao筱的简历
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
+name_pronunciation: xiao xiao
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: xiao
+last_name: 筱
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☕️666
 
 # Is this the primary user of the site?
 superuser: true
@@ -29,9 +28,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence兴趣
+  - Computational Linguistics兴趣
+  - 兴趣3: 爱睡觉
 
 # Education to show in About widget
 education:
